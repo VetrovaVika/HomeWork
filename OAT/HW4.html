@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"> 
+        <title>Регистрация</title> 
+        <link rel="stylesheet" href="style_HW3.css">
+    </head>
+    <body>
+        <style>
+            body {
+                background-color: #4f89bf;
+            }
+            form {
+                width: 100%;
+                text-align:center;
+            }
+            h1 {
+                color: #ffffff;
+                font-family:Arial, Helvetica, sans-serif;
+                margin: 3.3mm;
+            }
+            .pole {
+                margin: 1.5mm;
+                border: 5mm;
+                padding: 2mm;
+                border-radius: 3px;
+                background-color:#dce7f2;
+                color: #000000;
+            }
+            .button {
+                margin: 1.5mm;
+                border: 5mm;
+                padding: 3mm;
+                border-radius: 3px;
+                background-color: #0d638d;
+                color: white;
+                box-shadow: 3px 3px #406e99;
+            }
+            input::-webkit-input-placeholder { 
+                color: #92bacf; 
+            }
+        </style>
+    <form>
+        <h1>REGISTER</h1>
+        <input class="pole" type="text" placeholder="FIRST NAME" name="first_name" size="40"><br>
+        <input class="pole" type="text" placeholder="FAMILY NAME" name="family_name" size="40"><br>
+        <input class="pole" list="country" placeholder="COUNTRY" size="40">
+        <datalist id="country">
+            <option value="USA">
+            <option value="Russian Federation">
+            <option value="England">
+            <option value="France">
+            <option value="Germany">
+            <option value="China">
+        </datalist><br>
+        <input class="pole" type="password" placeholder="CREATE PASSWORD" size="40"><br>
+        <input class="button" type="submit" value="REGISTER">
+    </form>
+    </body>
+    </html>
