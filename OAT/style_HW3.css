@@ -1,0 +1,38 @@
+table {
+    /*background-color: rgb(7, 235, 197);*/
+    border-collapse: separate;
+    text-align: center;
+    width: 80%;
+    empty-cells: hide;
+    table-layout: fixed;
+}
+td {
+    border: 1px solid black;
+    padding: 10px;
+}
+caption {
+    caption-side: bottom;
+    text-align: right;
+    padding: 10px 0;
+}
+.s1 {
+    background-color: #ea9999;
+    }
+.s2 {
+    background-color: #d0e0e3;
+    }
+.s3 {
+    background-color: #fce5cd;
+    }
+.s4 {
+    background-color: #fff2cc;
+    }
+.s5 {
+    background-color: #d9d2e9;
+    }
+.s6 {
+    background-color: #efefef;
+    }
+.s7 {
+    background-color: #d9ead3;
+    }
