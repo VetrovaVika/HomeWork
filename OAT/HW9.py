@@ -31,7 +31,6 @@ def test_case_authorization(driver):
     password.send_keys('an1sh190145')
     button = driver.find_element(By.XPATH, '//*[@id="auth-form"]/div[3]/button')
     button.click()
-    time.sleep(10)
 
 def test_case_search(driver):
     search = driver.find_element(By.XPATH,'//*[@id="top-search-field"]')
@@ -58,4 +57,3 @@ def test_case_basket(driver):
     item_2 = driver.find_element(By.XPATH,'/html/body/div[2]/div/div/div[2]/div[2]/div[1]/div[2]/div[2]/div[4]/div[1]/input').get_attribute('value')
     assert item_1 == '2'
     assert item_2 == '1'
-    time.sleep(5)
