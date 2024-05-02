@@ -1,0 +1,41 @@
+pages.log_config 2024-05-03 01:06:04,452 INFO Cформированы тест-кейсы
+pages.log_config 2024-05-03 01:06:09,507 INFO Была открыта ссылка https://mokryinos.ru/
+pages.log_config 2024-05-03 01:06:09,515 INFO Начало теста test_login_page
+pages.log_config 2024-05-03 01:06:12,768 INFO Найдена кнопка авторизации/регистрации
+pages.log_config 2024-05-03 01:06:14,851 INFO Все элементы на страницы были найдены
+pages.log_config 2024-05-03 01:06:14,851 INFO Начало авторизации
+pages.log_config 2024-05-03 01:06:17,264 INFO Конец авторизации
+pages.log_config 2024-05-03 01:06:17,282 INFO Конец теста test_login_page
+pages.log_config 2024-05-03 01:06:17,285 INFO Конец фикстуры
+pages.log_config 2024-05-03 01:06:20,519 INFO Была открыта ссылка https://mokryinos.ru/
+pages.log_config 2024-05-03 01:06:20,525 INFO Начало теста test_login_page
+pages.log_config 2024-05-03 01:06:23,674 INFO Найдена кнопка авторизации/регистрации
+pages.log_config 2024-05-03 01:06:25,732 INFO Все элементы на страницы были найдены
+pages.log_config 2024-05-03 01:06:25,732 INFO Начало авторизации
+pages.log_config 2024-05-03 01:06:28,028 INFO Конец авторизации
+pages.log_config 2024-05-03 01:06:28,053 INFO Конец теста test_login_page
+pages.log_config 2024-05-03 01:06:28,055 INFO Конец фикстуры
+pages.log_config 2024-05-03 01:06:30,801 INFO Была открыта ссылка https://mokryinos.ru/
+pages.log_config 2024-05-03 01:06:30,804 INFO Начало теста test_login_page
+pages.log_config 2024-05-03 01:06:34,164 INFO Найдена кнопка авторизации/регистрации
+pages.log_config 2024-05-03 01:06:36,348 INFO Все элементы на страницы были найдены
+pages.log_config 2024-05-03 01:06:36,349 INFO Начало авторизации
+pages.log_config 2024-05-03 01:06:38,674 INFO Конец авторизации
+pages.log_config 2024-05-03 01:06:38,684 INFO Конец теста test_login_page
+pages.log_config 2024-05-03 01:06:38,686 INFO Конец фикстуры
+pages.log_config 2024-05-03 01:06:41,451 INFO Была открыта ссылка https://mokryinos.ru/
+pages.log_config 2024-05-03 01:06:41,472 INFO Начало теста test_login_page
+pages.log_config 2024-05-03 01:06:44,689 INFO Найдена кнопка авторизации/регистрации
+pages.log_config 2024-05-03 01:06:46,743 INFO Все элементы на страницы были найдены
+pages.log_config 2024-05-03 01:06:46,744 INFO Начало авторизации
+pages.log_config 2024-05-03 01:06:49,115 INFO Конец авторизации
+pages.log_config 2024-05-03 01:06:49,133 INFO Конец теста test_login_page
+pages.log_config 2024-05-03 01:06:49,135 INFO Конец фикстуры
+pages.log_config 2024-05-03 01:06:52,071 INFO Была открыта ссылка https://mokryinos.ru/
+pages.log_config 2024-05-03 01:06:52,083 INFO Начало теста test_login_page
+pages.log_config 2024-05-03 01:06:55,284 INFO Найдена кнопка авторизации/регистрации
+pages.log_config 2024-05-03 01:06:57,329 INFO Все элементы на страницы были найдены
+pages.log_config 2024-05-03 01:06:57,329 INFO Начало авторизации
+pages.log_config 2024-05-03 01:06:59,694 INFO Конец авторизации
+pages.log_config 2024-05-03 01:07:00,720 INFO Конец теста test_login_page
+pages.log_config 2024-05-03 01:07:00,722 INFO Конец фикстуры
