@@ -46,6 +46,12 @@ test_cases = [
         "expected_result": "site/login"
     },
     {
+        "description": "Вход с пустыми полями",
+        "telephone": "",
+        "password": "",
+        "expected_result": "site/login"
+    },
+    {
         "description": "Вход с неправильным форматом телефон",
         "telephone": "@#%$^",
         "password": "an1sh190145",
